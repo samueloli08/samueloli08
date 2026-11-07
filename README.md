@@ -35,7 +35,7 @@
 > curso:        Engenharia de Software — Universidade Federal do Ceará (UFC), Quixadá/CE
 > objetivo:     Estágio em Projetos (cronogramas, entregas, comunicação entre equipes)
 > idiomas:      Português (nativo) · Inglês (avançado)
-> disponível:   Trabalho remoto, das 9h às 16h
+> disponível:   Trabalho remoto.
 ```
 
 Sou estudante de Engenharia de Software na UFC, com interesse em **gestão de projetos** e **metodologias ágeis**.
@@ -63,23 +63,6 @@ Nos projetos de Interação Humano-Computador, conduzi **entrevistas com usuári
 ---
 
 ## 🚀 Projetos em destaque
-
-<div align="center">
-
-<a href="https://github.com/samueloli08/Game_ProjectFUP">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=samueloli08&repo=Game_ProjectFUP&theme=tokyonight&hide_border=true" alt="Game_ProjectFUP" />
-</a>
-<a href="https://github.com/samueloli08/Task-Tracker">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=samueloli08&repo=Task-Tracker&theme=tokyonight&hide_border=true" alt="Task-Tracker" />
-</a>
-<a href="https://github.com/samueloli08/POO_Study">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=samueloli08&repo=POO_Study&theme=tokyonight&hide_border=true" alt="POO_Study" />
-</a>
-<a href="https://github.com/samueloli08/Activity-FUP">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=samueloli08&repo=Activity-FUP&theme=tokyonight&hide_border=true" alt="Activity-FUP" />
-</a>
-
-</div>
 
 <br/>
 
@@ -134,14 +117,6 @@ Atividades de programação desenvolvidas em C++.
 
 ---
 
-## 🧩 Projetos de Interação Humano-Computador (UFC)
-
-- 🎤 Entrevistas com usuários e análise de requisitos para identificar problemas reais
-- 🗂️ Registro e organização das informações coletadas para orientar decisões de projeto
-- 🎨 Protótipos de interface com base em design centrado no usuário
-
----
-
 ## 📜 Certificações
 
 | Certificado | Instituição | Carga horária | Conclusão |
@@ -169,13 +144,6 @@ Atividades de programação desenvolvidas em C++.
 
 ---
 
-## 📈 Gráfico de atividade
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samueloli08&bg_color=0d1117&color=4fc3f7&line=4fc3f7&point=ffffff&area=true&area_color=4fc3f7&hide_border=true&custom_title=Atividade%20de%20contribui%C3%A7%C3%B5es" alt="Atividade" />
-</div>
-
----
 
 ## 🐍 Contribuições
 
@@ -194,10 +162,10 @@ Atividades de programação desenvolvidas em C++.
 
 ## 🎯 Foco atual
 
-- 📚 Aprofundar **POO em Java** (Jogo Pokémon)
-- ⚙️ Evoluir o **Sistema RPG em C++**
+- 📚 Aprofundar **POO em Java**
+- ⚙️ Criação de **Novos Projetos**
 - 📋 Aprender **metodologias ágeis** na prática
-- 🤖 Explorar **agentes de IA** (Imersão Agentes IA — Hashtag Treinamentos)
+- 🤖 Explorar **agentes de IA**
 
 ---
 
