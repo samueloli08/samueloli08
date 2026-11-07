@@ -172,9 +172,7 @@ Atividades de programação desenvolvidas em C++.
 ## 📈 Gráfico de atividade
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samueloli08&theme=tokyo-night&hide_border=true&area=true" alt="Atividade" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samueloli08&bg_color=0d1117&color=4fc3f7&line=4fc3f7&point=ffffff&area=true&area_color=4fc3f7&hide_border=true&custom_title=Atividade%20de%20contribui%C3%A7%C3%B5es" alt="Atividade" />
 </div>
 
 ---
